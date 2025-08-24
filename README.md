@@ -1,7 +1,5 @@
 # Learning Streamlit
-[Streamlit Mini Course - Make Websites With ONLY Python](https://www.youtube.com/watch?v=o8p7uQCGD0U) 의 Chapter 단위 실습코드
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o8p7uQCGD0U?si=zBRu1o9XV7LZmqTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Streamlit Mini Course - Make Websites With ONLY Python](https://www.youtube.com/watch?v=o8p7uQCGD0U)
 
 ---
 
